@@ -11,7 +11,7 @@ const SocialMedia = () => {
           <div className="buttons">
             <a
               className="btn fill"
-              href="https://twitter.com/thespace2022"
+              href="https://x.com/0x_SpaceDAO"
               target="_blank"
               rel="noreferrer"
             >
@@ -22,11 +22,11 @@ const SocialMedia = () => {
         <div className={styles.board}>
           <a
             className="twitter-timeline"
-            href="https://twitter.com/thespace2022"
+            href="https://x.com/0x_SpaceDAO"
             data-tweet-limit="1"
             data-width="500"
           >
-            Tweets by @thespace2022
+            Tweets by @0x_SpaceDAO
           </a>
           <script async src="https://platform.twitter.com/widgets.js" />
         </div>
